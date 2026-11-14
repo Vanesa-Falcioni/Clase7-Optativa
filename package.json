@@ -1,0 +1,13 @@
+{
+  "name": "clase6-optativa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boilerPlateObjetos.js",
+  "scripts": {
+    "dev": "node --watch boilerPlateObjetos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
